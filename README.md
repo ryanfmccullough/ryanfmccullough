@@ -1,5 +1,3 @@
-<img src="img/ryan.jpg" alt="Ryan F. McCullough" width="160" align="right">
-
 # Ryan F. McCullough
 
 Systems engineering for AI early warning in the neonatal ICU.
