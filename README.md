@@ -7,7 +7,7 @@ Senior Vice President of Solutions Engineering at a decision intelligence SaaS c
 
 ## Research
 
-A model's risk score only matters once decision logic turns it into delivered alerts, and that step is where clinical AI usually succeeds or fails. My doctoral work builds an evaluation harness that holds the alerting logic fixed so candidate architectures can be compared on what they cost clinicians (alarm burden) and what they buy patients (warning time). Across repeated builds of two backbones, warning time scaled with candidate volume along one line; what separated designs was where they sat on it.
+A model's risk score only matters once decision logic turns it into delivered alerts, and that step is where clinical AI usually succeeds or fails. My doctoral work builds an evaluation harness that holds the alerting logic fixed so candidate architectures can be compared on what they cost clinicians (alarm burden) and what they buy patients (warning time). Two backbones with matching discrimination produced alert streams that differed by a factor of 2.1 in candidate volume and 110 minutes in median warning time, which is the comparison the harness exists to make.
 
 Working interests: AI verification and validation, workload-aware clinical decision support, physiologic time-series modeling, self-supervised learning, alarm governance, and reproducible engineering evidence packages.
 
