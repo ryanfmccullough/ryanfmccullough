@@ -3,7 +3,7 @@
 Systems engineering for AI early warning in the neonatal ICU.
 Senior Vice President of Solutions Engineering at a decision intelligence SaaS company serving highly regulated industries. Doctor of Engineering, The Pennsylvania State University (praxis defended September 2026).
 
-[ryanfmccullough.com](https://ryanfmccullough.com) · [LinkedIn](https://www.linkedin.com/in/ryanfmccullough) · [ORCID](https://orcid.org/0009-0005-4107-1408) · [hello@ryanfmccullough.com](mailto:hello@ryanfmccullough.com)
+[ryanfmccullough.com](https://ryanfmccullough.com) · [LinkedIn](https://www.linkedin.com/in/ryanfmccullough) · [ORCID](https://orcid.org/0009-0005-4107-1408) · [Google Scholar](https://scholar.google.com/citations?user=sXjEz3kAAAAJ) · [hello@ryanfmccullough.com](mailto:hello@ryanfmccullough.com)
 
 ## Research
 
