@@ -19,4 +19,6 @@ Working interests: AI verification and validation, workload-aware clinical decis
 
 ## Code
 
-The praxis codebase is private while technology-transfer questions are settled. Public projects on open physiologic datasets are in progress and will appear here.
+The praxis codebase is private while technology-transfer questions are settled. Public projects on open physiologic datasets:
+
+- [ecg-calibration-ptbxl](https://github.com/ryanfmccullough/ecg-calibration-ptbxl): calibrated ECG classification on PTB-XL. Trains a compact baseline, then reports what the accuracy number leaves out: expected calibration error before and after temperature scaling, and an operating-point table of alerts per 100 recordings against sensitivity. Scaffold and tests complete; baseline results in progress.
